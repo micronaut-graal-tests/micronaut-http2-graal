@@ -1,0 +1,3 @@
+micronaut:
+  application:
+    name: micronaut-http2-graal
